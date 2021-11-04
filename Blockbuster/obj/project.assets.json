@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ZParr\\.nuget\\packages\\": {}
+    "C:\\Users\\CCHRISTIAN1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ZParr\\source\\repos\\Blockbuster\\Blockbuster\\Blockbuster.csproj",
+      "projectUniqueName": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\ZackRepos\\Blockbuster2\\Blockbuster\\Blockbuster.csproj",
       "projectName": "Blockbuster",
-      "projectPath": "C:\\Users\\ZParr\\source\\repos\\Blockbuster\\Blockbuster\\Blockbuster.csproj",
-      "packagesPath": "C:\\Users\\ZParr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ZParr\\source\\repos\\Blockbuster\\Blockbuster\\obj\\",
+      "projectPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\ZackRepos\\Blockbuster2\\Blockbuster\\Blockbuster.csproj",
+      "packagesPath": "C:\\Users\\CCHRISTIAN1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\CCHRISTIAN1\\OneDrive - KNEX\\Documents\\DevBuild\\Weeks\\ZackRepos\\Blockbuster2\\Blockbuster\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ZParr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\CCHRISTIAN1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
