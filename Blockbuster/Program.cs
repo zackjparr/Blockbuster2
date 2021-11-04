@@ -5,6 +5,7 @@ namespace Blockbuster
 {
     class Program
     {
+        /*
         static void Main(string[] args)
         {
             BlockbusterDB movies = new BlockbusterDB();
@@ -15,5 +16,6 @@ namespace Blockbuster
 
             selection.Play();
         }
+        */
     }
 }
